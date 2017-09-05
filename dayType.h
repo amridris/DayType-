@@ -36,10 +36,10 @@ public:
     //Return the previous day function
     int getPreviousDay();
 
-    //function to add increment Day by x value given
+    //function toincrement Day by given x value
     int getDayAfter(int day);
 
-    //Function for decrement day by x value given
+    //Function to decrement day by a given x vaule
     int getDayBefore(int day);
 
 }; // End of dayType header
